@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-*{
+html{
     background-color: hsl(212,45%,89%);
     padding: 0;
     max-width: 1440px;
